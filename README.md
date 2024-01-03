@@ -46,7 +46,7 @@
     </td>
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="css" />
-      <br>CSS
+      <br>React JS
     </td>
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
@@ -59,12 +59,16 @@
     </td>
 
   </td>
-            <td align="center" width="96">
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
       <br>Linux
     </td>
   </td>
-        <td align="center" width="96">
+	<td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="photoshop" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ps" width="65" height="65" alt="photoshop" />
       <br>PS
     </td>
