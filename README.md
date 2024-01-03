@@ -37,11 +37,15 @@
       <br>JavaScript
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
       <br>HTML
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
+      <br>CSS
+    </td>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="css" />
       <br>CSS
     </td>
   <td align="center" width="96">
@@ -50,18 +54,18 @@
     </td>
   </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
 
   </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
       <br>Linux
     </td>
   </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="photoshop" />
+        <img src="https://skillicons.dev/icons?i=ps" width="65" height="65" alt="photoshop" />
       <br>PS
     </td>
   
