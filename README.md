@@ -22,8 +22,6 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
-
-
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
