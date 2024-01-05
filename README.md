@@ -10,7 +10,6 @@
   
 </p>
 <br />
-
 ## How to reach me:
 
   <a href="https://www.linkedin.com/in/louisvuong" target="_blank" >
