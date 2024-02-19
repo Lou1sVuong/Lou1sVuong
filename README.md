@@ -12,9 +12,9 @@
 <br />
 ## How to reach me:
 
-  <a href="https://www.linkedin.com/in/louisvuong" target="_blank" >
+  //<a href="https://www.linkedin.com/in/louisvuong" target="_blank" >
       <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  </a>//
   <a href="https://www.facebook.com/Lou1sVuong" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
