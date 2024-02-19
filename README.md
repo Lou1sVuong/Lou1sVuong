@@ -32,14 +32,14 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Python" width="65" height="65" />
       <br>JavaScript
     </td>
-    <td align="center"  width="96">
+<!--     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
       <br>HTML
     </td>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
-    </td>
+    </td> -->
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="css" />
       <br>React JS
