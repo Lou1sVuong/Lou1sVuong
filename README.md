@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/Lou1sVuong/Lou1sVuong/main/2024-03-11-Hi-there-i-m-Vuong.gif" alt="Vuong's GIF" />
-</p>
+<div style="display: flex; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/Lou1sVuong/Lou1sVuong/main/2024-03-11-Hi-there-i-m-Vuong.gif" alt="Vuong's GIF" width="45%" />
+</div>
 
 ## How to reach me:
 
