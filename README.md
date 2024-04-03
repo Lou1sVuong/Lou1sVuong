@@ -4,7 +4,7 @@
 </p>
 
 
-![Ashmit Mehta](https://github.com/Lou1sVuong/Lou1sVuong/blob/main/github.png)
+![Lou1sVuong](https://github.com/Lou1sVuong/Lou1sVuong/blob/main/warengonzaga.png)
 
 ## My favorite tools and technologies ⚙️
 
@@ -58,3 +58,4 @@
     </td>
   
 </table>
+
