@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/Lou1sVuong/Lou1sVuong/main/2024-03-11-Hi-there-i-m-Vuong.gif" alt="Vuong's GIF" width="45%" />
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Lou1s" alt="Typing SVG" /></a>
 
 ## How to reach me:
 
