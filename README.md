@@ -9,6 +9,8 @@
 
 > Tools and technologies that I have worked with and am interested in
 
+
+
 <div style="overflow-x: auto;">
   <table style="width: 100%; table-layout: fixed;">
     <tr>
@@ -56,8 +58,5 @@
       <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65px" height="65px" /><br>Docker
       </td>
-      c
-      
-    </tr>
   </table>
 </div>
