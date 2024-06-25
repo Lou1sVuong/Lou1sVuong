@@ -3,7 +3,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8634F7&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Lou1s" alt="Typing SVG" /></a>
 </p>
 
-![Lou1sVuong](https://github.com/Lou1sVuong/Lou1sVuong/blob/main/warengonzaga.png)
 
 ## My favorite tools and technologies ⚙️
 
@@ -60,3 +59,13 @@
       </td>
   </table>
 </div>
+
+
+## Contact information
+**📫 How to contact me：**
+<p align="left">
+<a href="https://x.com/Lou1sVuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="lou1svuong.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+
+
+![](https://komarev.com/ghpvc/?username=Lou1sVuong&color=blueviolet)
