@@ -60,6 +60,38 @@
   </table>
 </div>
 
+## GitHub Stats
+(click to expand)
+
+<details open> 
+<summary>
+   General
+ </summary>
+<br>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lou1sVuong&hide=contribs,prs&show=prs_merged&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+<summary>
+   Most Used Languages
+ </summary>
+<br>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lou1sVuong&hide_progress=true&show_icons=true&locale=en&theme=onedark)
+
+</details>
+
+<details>
+<summary>
+GitHub Streak 
+</summary>
+<br>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lou1sVuong&fire=8634F7&stroke=8634F7&ring=8634F7&currStreakLabel=8634F7)](https://git.io/streak-stats)
+
+</details>
 
 ## Contact information
 **📫 How to contact me：**
@@ -68,4 +100,5 @@
 <a href="lou1svuong.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
 
+##
 ![](https://komarev.com/ghpvc/?username=Lou1sVuong&color=blueviolet)
