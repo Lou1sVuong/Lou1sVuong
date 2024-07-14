@@ -5,7 +5,7 @@
 
 ## My Development Environment
 
-![Operating System](https://img.shields.io/static/v1?label=OS&message=Windows&color=8A2BE2&?style=flat&logo=windows11)
+![Operating System](https://img.shields.io/static/v1?label=OS&message=Ubuntu%20Linux&color=8A2BE2&?style=flat&logo=ubuntu)
 ![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VSCode&color=8A2BE2&?style=flat&logo=visualstudiocode)
 ![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Chrome&color=8A2BE2&?style=flat&logo=googlechrome&logoColor=FFFFFF)
 
