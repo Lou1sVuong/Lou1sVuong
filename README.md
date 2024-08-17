@@ -64,7 +64,7 @@
  </summary>
 <br>
   
-[![Lou1sVuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lou1sVuong&hide=contribs,prs&show=prs_merged&show_icons=true&theme=midnight-purple\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Lou1sVuong's GitHub stats](https://github-readme-stats-xuv9.vercel.app/api?show_icons=true&username=lou1svuong&theme=midnight-purple&rank_icon=github)](https://github.com/Lou1sVuong)
 
 </details>
 
