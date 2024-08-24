@@ -55,10 +55,14 @@
 ![postman](https://img.shields.io/badge/-postman-000?&style=for-the-badge&logo=postman)
 ![linux](https://img.shields.io/badge/-linux-000?&style=for-the-badge&logo=linux)
 
-## GitHub Stats
-(click to expand)
-
-<details open> 
+<details> 
+  
+  <summary>
+GitHub Stats
+  </summary>
+  
+<details> 
+  
 <summary>
    General
  </summary>
@@ -87,12 +91,7 @@ GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Lou1sVuong&fire=8634F7&stroke=8634F7&ring=8634F7&currStreakLabel=8634F7)](https://git.io/streak-stats)
 
 </details>
-
-## Contact information
-**📫 How to contact me：**
-<p align="left">
-<a href="https://x.com/Lou1sVuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="lou1svuong.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+</details>
 
 
 ##
