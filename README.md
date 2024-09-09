@@ -14,37 +14,11 @@
 > Tools and technologies that I have worked with and am interested in
 
 
-<div style="overflow-x: auto;">
-  <table style="width: 100%; table-layout: fixed;">
-    <tr>
-      <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65px" height="65px" /><br>JavaScript
-      </td>
-      <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React JS" width="65px" height="65px" /><br>React JS
-      </td>
-      <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65px" height="65px" /><br>TypeScript
-      </td>
-      <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" width="65px" height="65px" /><br>Nextjs
-      </td>
-      <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="65px" height="65px" /><br>Nodejs
-      </td>
-      <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
-        <img src="https://skillicons.dev/icons?i=express" alt="express" width="65px" height="65px" /><br>Express
-      </td>
-      <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
-        <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" width="65px" height="65px" /><br>Solidity
-      </td>
-      <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65px" height="65px" /><br>Docker
-      </td>
-    </tr>
-  </table>
-</div>
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&style=for-the-badge&logo=TypeScript)
+![ReactJS](https://img.shields.io/badge/-React-000?&style=for-the-badge&logo=React)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![express](https://img.shields.io/badge/-Express-000?&style=for-the-badge&logo=express)
 ![npm](https://img.shields.io/badge/-npm-000?&style=for-the-badge&logo=npm)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&style=for-the-badge&logo=tailwindcss)
 ![mongodb](https://img.shields.io/badge/-mongodb-000?&style=for-the-badge&logo=mongodb)
@@ -54,6 +28,7 @@
 ![aws](https://img.shields.io/badge/-aws-000?&style=for-the-badge&logo=AmazonWebServices)
 ![postman](https://img.shields.io/badge/-postman-000?&style=for-the-badge&logo=postman)
 ![linux](https://img.shields.io/badge/-linux-000?&style=for-the-badge&logo=linux)
+![npm](https://img.shields.io/badge/-Docker-000?&style=for-the-badge&logo=Docker)
 
 <details> 
   
